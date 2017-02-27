@@ -1,0 +1,620 @@
+{"song_name": "ミチョ(韩国语)", "singer": "이정현"}
+{"song_name": "NRG (Skrillex, Kill The Noise, Milo & Otis Remix)", "singer": "Duck Sauce"}
+{"song_name": "真夏の果実", "singer": "サザンオールスターズ"}
+{"song_name": "I Was Made For Lovin You", "singer": "KISS"}
+{"song_name": "東京", "singer": "Miss Monday"}
+{"song_name": "只有一个愿望", "singer": "谢天笑"}
+{"song_name": "涙そうそう", "singer": "BEGIN"}
+{"song_name": "Cruisin'", "singer": "Sioen"}
+{"song_name": "Super Freak (Album Version)", "singer": "Rick James"}
+{"song_name": "Goddess On A Hiway", "singer": "Mercury Rev"}
+{"song_name": "Summertrain", "singer": "Greyson Chance"}
+{"song_name": "Everybody Knows I Love You", "singer": "Lovebugs"}
+{"song_name": "Forget You (Live from the BRITs)", "singer": "Paloma Faith / Cee-Lo"}
+{"song_name": "Like A Bullet", "singer": "Stefanie Heinzmann"}
+{"song_name": "奇妙能力歌", "singer": "陈粒"}
+{"song_name": "とんぼ", "singer": "長渕剛"}
+{"song_name": "Dernier vol", "singer": "Raphaël Beau"}
+{"song_name": "预谋邂逅", "singer": "阿肆"}
+{"song_name": "玛卡瑞娜", "singer": "海龟先生"}
+{"song_name": "Who Did That to You?", "singer": "John Legend"}
+{"song_name": "Simple Man", "singer": "Lynyrd Skynyrd"}
+{"song_name": "Beyond The Sundial", "singer": "Kevin Kern"}
+{"song_name": "Made In The U.S.A", "singer": "Yelawolf"}
+{"song_name": "Appalachian Round Up", "singer": "Celtic Thunder"}
+{"song_name": "不落的太阳", "singer": "장우혁"}
+{"song_name": "Harder You Get", "singer": "Scissor Sisters"}
+{"song_name": "Reality", "singer": "Richard Sanderson"}
+{"song_name": "I Hate Myself For Loving You", "singer": "Joan Jett & The Blackhearts"}
+{"song_name": "Tangled Up", "singer": "Caro Emerald"}
+{"song_name": "Let You Win", "singer": "Macy Gray"}
+{"song_name": "走马", "singer": "陈粒"}
+{"song_name": "She (feat. Mr.Bang, Annie)", "singer": "Jami Soul"}
+{"song_name": "Young Folks", "singer": "Peter Bjorn and John / Victoria Bergsman"}
+{"song_name": "Horny", "singer": "Cee-Lo"}
+{"song_name": "P.d.a. (We Just Don't Care)", "singer": "John Legend"}
+{"song_name": "No One Else Like You", "singer": "Adam Levine"}
+{"song_name": "살아가는 동안에", "singer": "정인"}
+{"song_name": "マイ·フレンド", "singer": "ZARD"}
+{"song_name": "Jackie Says", "singer": "MONO"}
+{"song_name": "Do It", "singer": "Tuxedo"}
+{"song_name": "原来", "singer": "醉人"}
+{"song_name": "運命のルーレット廻して", "singer": "ZARD"}
+{"song_name": "Forever Drunk", "singer": "Miss Li"}
+{"song_name": "Hanuman", "singer": "Rodrigo Y Gabriela"}
+{"song_name": "Blood Brothers", "singer": "Papa Roach"}
+{"song_name": "Love Runs Out", "singer": "OneRepublic"}
+{"song_name": "The Big Bang", "singer": "Rock Mafia"}
+{"song_name": "前世今生", "singer": "FormOSA"}
+{"song_name": "I Can't Get You Off My Mind", "singer": "Miss Li"}
+{"song_name": "Long Cool Woman In Black Dress", "singer": "The Hollies"}
+{"song_name": "Chains", "singer": "Nick Jonas"}
+{"song_name": "Thinking Out Loud", "singer": "Ed Sheeran"}
+{"song_name": "Time to Say Goodbye (Con Te Partirò)", "singer": "Sarah Brightman / Andrea Bocelli"}
+{"song_name": "28 Theme", "singer": "John Murphy"}
+{"song_name": "Teenagers", "singer": "Macy Gray"}
+{"song_name": "Grapefruits", "singer": "LOVE PSYCHEDELICO"}
+{"song_name": "5000マイル", "singer": "Rie Fu"}
+{"song_name": "Almost Lover", "singer": "Jasmine Thompson"}
+{"song_name": "メトロノーム", "singer": "Toe"}
+{"song_name": "给我一首歌的时间", "singer": "刘瑞琦"}
+{"song_name": "Hello", "singer": "Ice Cube"}
+{"song_name": "Chain Hang Low", "singer": "Jibbs"}
+{"song_name": "拥抱你", "singer": "刘思涵"}
+{"song_name": "He Films The Clouds Pt. 2", "singer": "Maybeshewill"}
+{"song_name": "Wing$", "singer": "Macklemore / Ryan Lewis"}
+{"song_name": "Don't Cha (Radio Edit)", "singer": "The Pussycat Dolls"}
+{"song_name": "Read All About It, Pt. III", "singer": "Emeli Sandé"}
+{"song_name": "I'm Not the Only One", "singer": "Sam Smith"}
+{"song_name": "Wannabe", "singer": "Spice Girls"}
+{"song_name": "Bang Bang", "singer": "Ariana Grande / Jessie J / Nicki Minaj"}
+{"song_name": "Sorry", "singer": "Buckcherry"}
+{"song_name": "一个人demo", "singer": "LingKai"}
+{"song_name": "Stoned", "singer": "Macy Gray"}
+{"song_name": "我的天空 电影《青春派》主题曲-南征北战", "singer": "中国黑人"}
+{"song_name": "5.缺乏 ", "singer": "阿肆"}
+{"song_name": "I Will Never Let You Down", "singer": "Rita Ora"}
+{"song_name": "GIMME ALL OF YOUR LOVE !!", "singer": "Tommy heavenly6"}
+{"song_name": "E.T. (feat. Kanye West)", "singer": "Katy Perry"}
+{"song_name": "Lady Marmalade", "singer": "Mya / P!nk / Christina Aguilera / LIL"}
+{"song_name": "Crazy", "singer": "Gnarls Barkley"}
+{"song_name": "Almost Famous", "singer": "Eminem"}
+{"song_name": "I Am Me", "singer": "Willow Smith"}
+{"song_name": "Crazy In Love (2014 Remix)", "singer": "Beyoncé"}
+{"song_name": "James Bond Theme", "singer": "Erich Kunzel"}
+{"song_name": "Space Oddity (Mitty Mix) ", "singer": "Kristen Wiig / David Bowie"}
+{"song_name": "If You Feel My Love", "singer": "Blaxy Girls"}
+{"song_name": "乌克丽丽", "singer": "刘瑞琦"}
+{"song_name": "Bright Light", "singer": "SKYLAKE"}
+{"song_name": "Hello", "singer": "Adele"}
+{"song_name": "Team", "singer": "Lorde"}
+{"song_name": "Staring At You", "singer": "Diane Birch"}
+{"song_name": "千と千尋の神隠し::あの夏へ", "singer": "sal"}
+{"song_name": "危机纪元", "singer": "三体OST"}
+{"song_name": "Stay With Me", "singer": "Sam Smith"}
+{"song_name": "Same Love (feat. Mary Lambert)", "singer": "Ryan Lewis / Macklemore / Mary Lambert"}
+{"song_name": "欢迎光临", "singer": "自由发挥"}
+{"song_name": "Believer", "singer": "American Authors"}
+{"song_name": "Afterlife", "singer": "Ingrid Michaelson"}
+{"song_name": "Call The Police", "singer": "James Morrison"}
+{"song_name": "Time Machine", "singer": "Ingrid Michaelson"}
+{"song_name": "EMOTIONS", "singer": "GALNERYUS"}
+{"song_name": "三度和弦", "singer": "刘瑞琦"}
+{"song_name": "Get Out Of Here", "singer": "Melanie C"}
+{"song_name": "Clear Blue Sky", "singer": "Skylar Grey"}
+{"song_name": "苏运莹-野子（方块RAP）", "singer": "L.T.M"}
+{"song_name": "My Humps", "singer": "Black Eyed Peas"}
+{"song_name": "Fortune Days", "singer": "The Glitch Mob"}
+{"song_name": "狭心症", "singer": "RADWIMPS"}
+{"song_name": "Stairway Generation", "singer": "Base Ball Bear"}
+{"song_name": "Took A Hit", "singer": "Racoon"}
+{"song_name": "Great DJ", "singer": "The Ting Tings"}
+{"song_name": "Girls Chase Boys", "singer": "Ingrid Michaelson"}
+{"song_name": "You'll Be In My Heart", "singer": "Glenn Close / Phil Collins"}
+{"song_name": "On Top of the World", "singer": "Imagine Dragons"}
+{"song_name": "Halo ", "singer": "Ane Brun"}
+{"song_name": "Dive Bombers", "singer": "Brian Tyler"}
+{"song_name": "Matsuri", "singer": "吉田潔"}
+{"song_name": "Change", "singer": "MONKEY MAJIK"}
+{"song_name": "TRAIN-TRAIN", "singer": "THE BLUE HEARTS"}
+{"song_name": "琉球愛歌", "singer": "Mongol 800"}
+{"song_name": "SAY YES", "singer": "CHAGE & ASKA"}
+{"song_name": "Sabre Dance", "singer": "Aram Khachaturian"}
+{"song_name": "Blown Away", "singer": "Carrie Underwood"}
+{"song_name": "桜キッス", "singer": "河辺千恵子"}
+{"song_name": "没时间后悔", "singer": "陈奂仁"}
+{"song_name": "Merry Christmas Mr. Lawrence", "singer": "坂本龍一"}
+{"song_name": "Jr. (j): For Orchestra, Op. 378, Rv 378 - Banditen-galop", "singer": "Erich Kunzel / Cincinnati Pops Orchestra"}
+{"song_name": "白い雪", "singer": "KOKIA"}
+{"song_name": "The Golden Age", "singer": "The Asteroids Galaxy Tour"}
+{"song_name": "Shut Up And Let Me Go", "singer": "The Ting Tings"}
+{"song_name": "和楽・千本櫻 feat.佳館杏ノ助", "singer": "杵家七三社中"}
+{"song_name": "Some Kind of Joke", "singer": "Awolnation"}
+{"song_name": "やさしくなりたい", "singer": "斉藤和義"}
+{"song_name": "Zigeunerweisen, Op.20, No.1", "singer": "RUGGIERO RICCI"}
+{"song_name": "Cups (Pitch Perfect’s \"When I’m Gone\")", "singer": "Anna Kendrick"}
+{"song_name": "万事屋ブルース", "singer": "灰津尾出男"}
+{"song_name": "Ravel Bolero (excerpt)", "singer": "Berliner Philharmoniker / Herbert von Karajan"}
+{"song_name": "Wouldn't It Be Nice", "singer": "The Beach Boys"}
+{"song_name": "拉德斯基进行曲", "singer": "Johann Strauss Sr."}
+{"song_name": "Billie Jean", "singer": "The Civil Wars"}
+{"song_name": "等你爱我", "singer": "陈奕迅"}
+{"song_name": "Diamonds", "singer": "Rihanna"}
+{"song_name": "Burn", "singer": "Ellie Goulding"}
+{"song_name": "Geordie Racer (Notixx Trap Remix) [feat. Subscape]", "singer": "Caspa / Subscape"}
+{"song_name": "Tokyo Drift (Fast & Furious)", "singer": "TERIYAKI BOYZ"}
+{"song_name": "Step Out", "singer": "José González "}
+{"song_name": "Deceptacon", "singer": "Le Tigre"}
+{"song_name": "羁绊", "singer": "指人儿"}
+{"song_name": "Love Me Again", "singer": "John Newman"}
+{"song_name": "Bounce (Radio Version)", "singer": "Sarah Connor"}
+{"song_name": "Baby Fratelli", "singer": "The Fratellis"}
+{"song_name": "Melodies Of Life", "singer": "Final Fantasy Orchestra Concert"}
+{"song_name": "Hips Don't Lie", "singer": "Wyclef Jean / Shakira"}
+{"song_name": "Hollaback Girl", "singer": "Gwen Stefani"}
+{"song_name": "Make Me Wanna Die", "singer": "The Pretty Reckless"}
+{"song_name": "Heaven Knows", "singer": "The Pretty Reckless"}
+{"song_name": "2:1", "singer": "Elastica"}
+{"song_name": "气球", "singer": "许哲佩"}
+{"song_name": "Smooth Criminal", "singer": "David Garrett"}
+{"song_name": "Thy Will Be Done", "singer": "Handsome Furs"}
+{"song_name": "Civil War", "singer": "Guns N' Roses"}
+{"song_name": "C'mon Let Me Ride", "singer": "Eminem / Skylar Grey"}
+{"song_name": "Hi", "singer": "Psapp"}
+{"song_name": "Lose Yourself", "singer": "Eminem"}
+{"song_name": "둘이서", "singer": "채연"}
+{"song_name": "较劲-甜而不腻", "singer": "较劲组合"}
+{"song_name": "Sky High", "singer": "曽我部恵一"}
+{"song_name": "プラネタリウム", "singer": "大塚愛"}
+{"song_name": "L'Inverno; 1. Allegro Non Molto", "singer": "The English Concert / Antonio Vivaldi / Simon Standage / Trevor Pinnock"}
+{"song_name": "Shut Up", "singer": "Black Eyed Peas"}
+{"song_name": "The Pride Of The Tyrant", "singer": "Rhapsody of Fire"}
+{"song_name": "I.moderato \"carmen\"", "singer": "Anne-Sophie Mutter"}
+{"song_name": "Dvorak: Humoresque, op.101 no.7", "singer": "Joseph Cooper"}
+{"song_name": "天大地大", "singer": "郑少秋"}
+{"song_name": "These Boots are Made for Walkin'", "singer": "Nancy Sinatra"}
+{"song_name": "The Trembler", "singer": "Duane Eddy"}
+{"song_name": "Buddy Holly", "singer": "Weezer"}
+{"song_name": "遥か～SAILING FOR MY DREAM～", "singer": "FENCE OF DEFENSE"}
+{"song_name": "ハッピーエンデング　～第2弾ED～", "singer": "冠徹弥"}
+{"song_name": "Atomic", "singer": "Sleeper"}
+{"song_name": "Ladykillers", "singer": "Lush"}
+{"song_name": "Little Talks", "singer": "Of Monsters and Men"}
+{"song_name": "Years Time (Sweets For My Sweets Version)", "singer": "Noah And The Whale"}
+{"song_name": "デリンジャー", "singer": "刀根麻理子"}
+{"song_name": "The Big Bang Theory Theme", "singer": "Barenaked Ladies"}
+{"song_name": "Groovy!", "singer": "広瀬香美"}
+{"song_name": "Autumn Falls", "singer": "Andy Tubman"}
+{"song_name": "Best Day of My Life", "singer": "American Authors"}
+{"song_name": "Sunny Afternoon", "singer": "The Kinks"}
+{"song_name": "Superman", "singer": "Stereophonics"}
+{"song_name": "Will And Elizabeth", "singer": "Klaus Badelt"}
+{"song_name": "麗しの花~劉備の恋", "singer": "横山菁児"}
+{"song_name": "聖闘士神話～ソルジャー ドリーム～", "singer": "影山ヒロノブ&BROADWAY"}
+{"song_name": "蝴蝶泉边", "singer": "黄雅莉"}
+{"song_name": "Ievan Polkka (Eva's Polka)", "singer": "Loituma"}
+{"song_name": "君をのせて", "singer": "井上あずみ"}
+{"song_name": "粉雪", "singer": "レミオロメン"}
+{"song_name": "Rinzler", "singer": "Daft Punk"}
+{"song_name": "Extreme Ways", "singer": "Moby"}
+{"song_name": "Eye Of The Tiger", "singer": "Survivor"}
+{"song_name": "YMCA", "singer": "Village People"}
+{"song_name": "流川枫与苍井空", "singer": "黑撒"}
+{"song_name": "大椰子", "singer": "嘿！！！"}
+{"song_name": "Time After Time～花舞う街で～", "singer": "倉木麻衣"}
+{"song_name": "You Were My Everything", "singer": "Ben Besiakov"}
+{"song_name": "肉屋のように", "singer": "ヤプーズ"}
+{"song_name": "パンク蛹化の女", "singer": "戸川純"}
+{"song_name": "Any Other World", "singer": "MIKA"}
+{"song_name": "Warwick Avenue", "singer": "Duffy"}
+{"song_name": "Sail", "singer": "Awolnation"}
+{"song_name": "Viva La Vida", "singer": "Coldplay"}
+{"song_name": "The Time (Dirty Bit)", "singer": "Black Eyed Peas"}
+{"song_name": "Stronger", "singer": "Kanye West"}
+{"song_name": "少林功夫好", "singer": "AV大久保"}
+{"song_name": "Wild World", "singer": "Mike Bailey"}
+{"song_name": "梦追いランナー", "singer": "吉川慶"}
+{"song_name": "諏訪御柱木遣り~飛竜三段返し", "singer": "小口大八と御諏訪太鼓"}
+{"song_name": "Maria", "singer": "Blondie"}
+{"song_name": "The World Was A Mess But His Hair Was Perfect", "singer": "The Rakes"}
+{"song_name": "有女朋友别忘了请我吃饭", "singer": "阿肆"}
+{"song_name": "Running Away", "singer": "Monty Alexander"}
+{"song_name": "マル・マル・モリ・モリ!(フルサイズカラオケ)", "singer": "薫と友樹，たまにムック。"}
+{"song_name": "ケツメイシ工場", "singer": "ケツメイシ"}
+{"song_name": "All I Want For Christmas Is You", "singer": "Olivia Olson"}
+{"song_name": "The Diva Dance", "singer": "Eric Serra"}
+{"song_name": "Introduction, Fortune, Empress of the World (Nos. 1, 2)", "singer": "Robert Shaw / Carl Orff"}
+{"song_name": "ゲルマン讃歌～俺はドイツ製～", "singer": "安元洋貴"}
+{"song_name": "アタック！ギャグマンガ日和", "singer": "うえだゆうじ"}
+{"song_name": "光と影のロマン(アルバム・ヴァージョン)", "singer": "宇德敬子"}
+{"song_name": "Der Holle Rache Kocht Meinem Herzen", "singer": "Rita Streich"}
+{"song_name": "Stella Del Fururo", "singer": "Luciano Pavarotti"}
+{"song_name": "Hooked On A Feeling", "singer": "Blue Swede"}
+{"song_name": "めざせポケモンマスター", "singer": "松本梨香"}
+{"song_name": "Intro:The Dawn", "singer": "Dreamtale"}
+{"song_name": "SHINING SOUL(TVサイズ)", "singer": "清水咲斗子"}
+{"song_name": "わられ無敵のドコン団", "singer": "たかはし智秋"}
+{"song_name": "アトラクション", "singer": "小澤正澄"}
+{"song_name": "Rage Your Dream", "singer": "m.o.v.e"}
+{"song_name": "母亲的秘密小白宫", "singer": "久石譲"}
+{"song_name": "Per Qualche Dollaro In Piu (For a Few Dollars More)", "singer": "Ennio Morricone"}
+{"song_name": "胸がドキドキ", "singer": "THE HIGH-LOWS"}
+{"song_name": "空", "singer": "大黒摩季"}
+{"song_name": "Wavin' Flag", "singer": "K'Naan"}
+{"song_name": "Summer", "singer": "久石譲"}
+{"song_name": "Butter-fly", "singer": "遠藤正明"}
+{"song_name": "Freedom", "singer": "Elayna Boynton / Anthony Hamilton"}
+{"song_name": "Never Know", "singer": "Jack Johnson"}
+{"song_name": "失恋", "singer": "草蜢"}
+{"song_name": "Anyone Else But You", "singer": "The Moldy Peaches"}
+{"song_name": "ぼくがいる", "singer": "江戸川コナン"}
+{"song_name": "Feel Good Inc", "singer": "Stanton Warriors"}
+{"song_name": "欢乐颂", "singer": "嘿！！！"}
+{"song_name": "ペガサス幻想-PEGASUS FANTSY-", "singer": "古谷徹"}
+{"song_name": "风になる～みんなでウクレレ编～ / つじあやの　※Bonus Track", "singer": "つじあやの / BEAT CRUSADERS"}
+{"song_name": "On My Shoulders", "singer": "The Dø"}
+{"song_name": "Rave Is King", "singer": "Fukkk Offf"}
+{"song_name": "残酷な天使のテーゼ (Director's Edit.Version) ", "singer": "高橋洋子"}
+{"song_name": "煌めく瞬間に捕らわれて", "singer": "MANISH"}
+{"song_name": "島人ぬ宝", "singer": "BEGIN"}
+{"song_name": "キセキ", "singer": "GReeeeN"}
+{"song_name": "Gotta Have You", "singer": "The Weepies"}
+{"song_name": "地球ぎ", "singer": "松澤由美"}
+{"song_name": "君が好きだと叫びたい", "singer": "BAAD"}
+{"song_name": "あなただけ見つめてる", "singer": "大黒摩季"}
+{"song_name": "3月9日", "singer": "レミオロメン"}
+{"song_name": "长路漫漫伴你闯", "singer": "林子祥"}
+{"song_name": "Moondance", "singer": "Nightwish"}
+{"song_name": "Bohemian Rhapsody", "singer": "Queen"}
+{"song_name": "Shape Of My Heart", "singer": "Sting"}
+{"song_name": "Shake That (feat. Nate Dogg)", "singer": "Eminem"}
+{"song_name": "Awaiking The Centuries", "singer": "Haggard"}
+{"song_name": "Relax, Take It Easy", "singer": "MIKA"}
+{"song_name": "水手公园", "singer": "GALA"}
+{"song_name": "兰州 兰州", "singer": "低苦艾"}
+{"song_name": "Zorba's Dance", "singer": "The London Pops Orchestra"}
+{"song_name": "长在银川", "singer": "苏阳"}
+{"song_name": "秦皇岛", "singer": "万能青年旅店"}
+{"song_name": "明日晴れるかな", "singer": "桑田佳祐"}
+{"song_name": "Pump It", "singer": "Black Eyed Peas"}
+{"song_name": "White America", "singer": "Eminem"}
+{"song_name": "No Woman No Cry [live]", "singer": "Bob Marley"}
+{"song_name": "I Hate Myself For Lovin' You", "singer": "Joan Jett & The Blackhearts"}
+{"song_name": "难念的经", "singer": "周华健"}
+{"song_name": "杀死那个石家庄人", "singer": "万能青年旅店"}
+{"song_name": "Evidence", "singer": "Marilyn Manson"}
+{"song_name": "Lake Of Fire", "singer": "Nirvana"}
+{"song_name": "Beetlebum", "singer": "Blur"}
+{"song_name": "Gone with the Sin (O.D. Version)", "singer": "H.I.M."}
+{"song_name": "The Take Over, The Break's Over", "singer": "Fall Out Boy"}
+{"song_name": "All Apologies", "singer": "Nirvana"}
+{"song_name": "Love Today", "singer": "MIKA"}
+{"song_name": "十万嬉皮", "singer": "万能青年旅店"}
+{"song_name": "小さな恋のうた", "singer": "Mongol 800"}
+{"song_name": "Teardrop", "singer": "Massive Attack"}
+{"song_name": "Gronlandic Edit", "singer": "of Montreal"}
+{"song_name": "Lullaby", "singer": "The Cure"}
+{"song_name": "Bittersweet Symphony", "singer": "The Verve"}
+{"song_name": "Karma Police", "singer": "Radiohead"}
+{"song_name": "Polly", "singer": "Nirvana"}
+{"song_name": "Wiggle My Tooth", "singer": "Kimya Dawson"}
+{"song_name": "Plateau", "singer": "Nirvana"}
+{"song_name": "南方姑娘", "singer": "赵雷"}
+{"song_name": "It Won't Be Long", "singer": "The Hives"}
+{"song_name": "Luv Letter", "singer": "DJ OKAWARI"}
+{"song_name": "Set Fire to the Rain", "singer": "Adele"}
+{"song_name": "Price Tag (Acoustic Version)", "singer": "Jessie J"}
+{"song_name": "Creep [acoustic]", "singer": "Radiohead"}
+{"song_name": "Seven Nation Army", "singer": "The White Stripes"}
+{"song_name": "Lights (Single Version)", "singer": "Ellie Goulding"}
+{"song_name": "You Belong To Me", "singer": "Carla Bruni"}
+{"song_name": "La Vie En Rose", "singer": "Louis Armstrong"}
+{"song_name": "Smells Like Teen Spirit", "singer": "Nirvana"}
+{"song_name": "Young For You", "singer": "GALA"}
+{"song_name": "The Nobodies", "singer": "Marilyn Manson"}
+{"song_name": "Miss You", "singer": "Blink-182"}
+{"song_name": "Don't Look Back In Anger", "singer": "Oasis"}
+{"song_name": "Fake Plastic Trees", "singer": "Radiohead"}
+{"song_name": "Fuck U", "singer": "Placebo"}
+{"song_name": "Men's Needs", "singer": "The Cribs"}
+{"song_name": "Lollipop", "singer": "MIKA"}
+{"song_name": "Hard To Find The Words", "singer": "Cinderella"}
+{"song_name": "Come As You Are", "singer": "Nirvana"}
+{"song_name": "Chasing Pavements", "singer": "Adele"}
+{"song_name": "Seasons In The Sun", "singer": "Black Box Recorder"}
+{"song_name": "Spieluhr", "singer": "Rammstein"}
+{"song_name": "風になる", "singer": "野見祐二"}
+{"song_name": "Till I Collapse", "singer": "Eminem"}
+{"song_name": "We'll Be Alright", "singer": "Travie Mccoy"}
+{"song_name": "ジレンマ", "singer": "ecosystem"}
+{"song_name": "ウォーアイニー", "singer": "BEAT CRUSADERS / 高橋瞳"}
+{"song_name": "手紙 ～拝啓 十五の君へ～", "singer": "アンジェラ・アキ"}
+{"song_name": "桃源郷エイリアン", "singer": "serial TV drama"}
+{"song_name": "いとをかし", "singer": "monobright"}
+{"song_name": "Skinny Love (Live)", "singer": "Birdy"}
+{"song_name": "Discombobulate", "singer": "Hans Zimmer"}
+{"song_name": "黒い雨", "singer": "シギ"}
+{"song_name": "消せない罪", "singer": "北出菜奈"}
+{"song_name": "Fire", "singer": "Gavin DeGraw"}
+{"song_name": "Unter Donner und Blitz, Op. 324 ", "singer": "Carlos Kleiber"}
+{"song_name": "Hero's Come Back!!", "singer": "nobodyknows+"}
+{"song_name": "Rude", "singer": "MAGIC!"}
+{"song_name": "彩雲", "singer": "吉田兄弟"}
+{"song_name": "开门见山", "singer": "张惠妹"}
+{"song_name": "Rather Be feat. Jess Glynne", "singer": "Clean Bandit"}
+{"song_name": "怎么说我不爱你 How to say I don't love you", "singer": "萧敬腾"}
+{"song_name": "修羅", "singer": "DOES"}
+{"song_name": "American Girl", "singer": "Bonnie McKee"}
+{"song_name": "Pacific Rim", "singer": "Ramin Djawadi"}
+{"song_name": "Johann Strauss, Tritsch-Tratsch, Polka schnell, op.214", "singer": "Georges Prêtre"}
+{"song_name": "后会无期", "singer": "G.E.M.邓紫棋"}
+{"song_name": "河", "singer": "张雨生"}
+{"song_name": "Last Smile (extension Mix)", "singer": "LOVE PSYCHEDELICO"}
+{"song_name": "かさなる影", "singer": "Hearts Grow"}
+{"song_name": "Pray", "singer": "Tommy heavenly6"}
+{"song_name": "Johann Strauss Jr.- Orpheus-Quadrille, Op. 236", "singer": "George Pretre / Wiener Philharmoniker / Georges Prêtre"}
+{"song_name": "*～アスタリスク～", "singer": "ORANGE RANGE"}
+{"song_name": "Oh Girl", "singer": "Evil Superstars"}
+{"song_name": "Living Life", "singer": "Kathy McCarty"}
+{"song_name": "Woo Hoo", "singer": "The 5.6.7.8's"}
+{"song_name": "Brokenhearted", "singer": "Karmin"}
+{"song_name": "U + Ur Hand", "singer": "P!nk"}
+{"song_name": "Mr.Raindrop", "singer": "amplified"}
+{"song_name": "Leichte Kavallerie, Ouvertüre", "singer": "Franz Welser-Möst / Wiener Philharmoniker"}
+{"song_name": "Boom Clap", "singer": "Charli XCX"}
+{"song_name": "Cry For Young", "singer": "DA BANG"}
+{"song_name": "记得我吗", "singer": "陈冠希"}
+{"song_name": "I Don't Care", "singer": "Skye Sweetnam"}
+{"song_name": "Us", "singer": "Regina Spektor"}
+{"song_name": "Money", "singer": "Pink Floyd"}
+{"song_name": "流光飞舞", "singer": "陈淑桦"}
+{"song_name": "Empire State of Mind", "singer": "Alicia Keys / Jay-Z"}
+{"song_name": "Girl With One Eye", "singer": "Florence And The Machine"}
+{"song_name": "Come On (日语版)", "singer": "이정현"}
+{"song_name": "爱我的请举手", "singer": "莫文蔚"}
+{"song_name": "バクチ-ダンサー", "singer": "DOES"}
+{"song_name": "我要你的爱", "singer": "葛兰"}
+{"song_name": "Gold Lion", "singer": "Yeah Yeah Yeahs"}
+{"song_name": "开到荼糜", "singer": "at17"}
+{"song_name": "Take Me Out", "singer": "Franz Ferdinand"}
+{"song_name": "一笑悬命", "singer": "遊助"}
+{"song_name": "傻瓜", "singer": "苏慧伦"}
+{"song_name": "消失", "singer": "范晓萱"}
+{"song_name": "Letter", "singer": "ONE☆DRAFT"}
+{"song_name": "Tonight Tonight", "singer": "Hot Chelle Rae"}
+{"song_name": "一切正常", "singer": "杭天"}
+{"song_name": "无处可去", "singer": "王宝和正午阳光"}
+{"song_name": "逼上梁山", "singer": "陈劲"}
+{"song_name": "花房姑娘", "singer": "崔健"}
+{"song_name": "Requiem For A Tower", "singer": "Escala"}
+{"song_name": "Mind Heist", "singer": "Zack Hemsey"}
+{"song_name": "世界是个动物园", "singer": "尹吾"}
+{"song_name": "Points Of Authority [Live]", "singer": "Linkin Park"}
+{"song_name": "没有理想的人不伤心", "singer": "新裤子"}
+{"song_name": "劈哩啪啦", "singer": "麻吉弟弟"}
+{"song_name": "Cuban Dance", "singer": "Klazz Brothers / Cuba Percussion"}
+{"song_name": "Take a Walk", "singer": "Passion Pit"}
+{"song_name": "Falling Slowly", "singer": "Marketa Irglova / Glen Hansard"}
+{"song_name": "暁の車", "singer": "FictionJunction YUUKA"}
+{"song_name": "イケナイ太陽", "singer": "ORANGE RANGE"}
+{"song_name": "昙天", "singer": "DOES"}
+{"song_name": "チャンピオン", "singer": "アリス"}
+{"song_name": "The Gremmie", "singer": "The Tornadoes"}
+{"song_name": "Chick Habit", "singer": "April March"}
+{"song_name": "12:51", "singer": "The Strokes"}
+{"song_name": "Perfect Day [Acoustic Demo]", "singer": "Lou Reed"}
+{"song_name": "I Walk The Line", "singer": "Joaquin Phoenix"}
+{"song_name": "Mambozart (mozart.symphony No.40) 曼波札特（改编自 莫札特：第四十号交响曲", "singer": "The Klazz Brothers / Cuba Percussion"}
+{"song_name": "查尔达斯舞曲", "singer": "Yo-Yo Ma"}
+{"song_name": "Girls & Boys", "singer": "Blur"}
+{"song_name": "Uprising", "singer": "Muse"}
+{"song_name": "把耳朵叫醒", "singer": "金海心"}
+{"song_name": "Boston", "singer": "Augustana"}
+{"song_name": "Die Young", "singer": "Ke$ha"}
+{"song_name": "The Flight Of The Bumble-Bee", "singer": "Maksim Mrvica"}
+{"song_name": "柳树下", "singer": "谢和弦"}
+{"song_name": "旱天雷", "singer": "谢声驿"}
+{"song_name": "Main Title from Star Wars", "singer": "John Williams"}
+{"song_name": "In A Darkened Room", "singer": "Skid Row"}
+{"song_name": "Ruby", "singer": "Kaiser Chiefs"}
+{"song_name": "Come and Get Your Love", "singer": "Redbone"}
+{"song_name": "Misery", "singer": "Green Day"}
+{"song_name": "让我搭上一班会爆炸的飞机", "singer": "my little airport"}
+{"song_name": "Shakalaka (geo's Club Mix)", "singer": "Sweetbox"}
+{"song_name": "Moves Like Jagger / Jumpin' Jack Flash (Glee Cast Version)", "singer": "Glee Cast"}
+{"song_name": "Back In Black", "singer": "AC/DC"}
+{"song_name": "Running On Faith", "singer": "Eric Clapton"}
+{"song_name": "Doesn't Mean Anything", "singer": "Alicia Keys"}
+{"song_name": "Nothin's Comin'", "singer": "The Vines"}
+{"song_name": "Hound Dog", "singer": "Elvis Presley"}
+{"song_name": "Save Me, San Francisco", "singer": "Train"}
+{"song_name": "I Need You Now", "singer": "Olly Murs"}
+{"song_name": "Love You Lately", "singer": "Daniel Powter"}
+{"song_name": "Unwritten", "singer": "Natasha Bedingfield"}
+{"song_name": "下雨的垦丁", "singer": "丝袜小姐"}
+{"song_name": "第9号交响曲新世界-第四乐章", "singer": "Antonín Dvořák"}
+{"song_name": "Os Animais", "singer": "Luar Na Lubre"}
+{"song_name": "真心真意过一生(快乐随风版)", "singer": "叶倩文"}
+{"song_name": "Ba Ba Ba", "singer": "草蜢"}
+{"song_name": "子曰", "singer": "卜学亮"}
+{"song_name": "When Love Takes Over (Electro Extended)", "singer": "Kelly Rowland / David Guetta"}
+{"song_name": "黄粱一梦", "singer": "黑撒"}
+{"song_name": "你好，周杰伦", "singer": "安又琪"}
+{"song_name": "Runaway Baby", "singer": "Bruno Mars"}
+{"song_name": "Japanese Boys", "singer": "Aneka"}
+{"song_name": "「美少女戦士セーラームーン」~ムーンライト伝説", "singer": "DALI"}
+{"song_name": "Anywhere Is", "singer": "Enya"}
+{"song_name": "Say Forever", "singer": "JS"}
+{"song_name": "我想要的感觉", "singer": "张震岳"}
+{"song_name": "黄河谣", "singer": "赵牧阳"}
+{"song_name": "Hey, Soul Sister", "singer": "Train"}
+{"song_name": "Internet Friends", "singer": "Knife Party"}
+{"song_name": "The Lonely Shepherd", "singer": "Gheorghe Zamfir"}
+{"song_name": "I Wanna Be Your Dog", "singer": "The Stooges"}
+{"song_name": "子夜", "singer": "赵牧阳"}
+{"song_name": "Evil Woman", "singer": "Canned Heat"}
+{"song_name": "What's Up", "singer": "4 Non Blondes"}
+{"song_name": "志明与春娇", "singer": "五月天"}
+{"song_name": "人生海海", "singer": "五月天"}
+{"song_name": "You Probably Couldn't See For the Lights But You Were Looking Straight At Me", "singer": "Arctic Monkeys"}
+{"song_name": "平凡之路", "singer": "朴树"}
+{"song_name": "Hymn To Life", "singer": "Timo Tolkki"}
+{"song_name": "When I Was Your Man", "singer": "Bruno Mars"}
+{"song_name": "Main Title and Calvera", "singer": "Elmer Bernstein"}
+{"song_name": "Anthem", "singer": "Vangelis"}
+{"song_name": "人生如此（粤）", "singer": "原声带"}
+{"song_name": "你笑着流出了泪", "singer": "尹吾"}
+{"song_name": "比比爸爸", "singer": "杭天"}
+{"song_name": "一生所爱", "singer": "卢冠廷"}
+{"song_name": "Classico", "singer": "Tenacious D"}
+{"song_name": "In the Hall of the Mountain King", "singer": "Royal Philharmonic Orchestra / Beecham"}
+{"song_name": "Bustin' Surfboards", "singer": "The Tornadoes"}
+{"song_name": "Conquest Of Paradise", "singer": "Vangelis"}
+{"song_name": "HEAT ISLAND featuring FIRE BALL", "singer": "RHYMESTER"}
+{"song_name": "愛をとりもどせ!!", "singer": "クリスタルキング"}
+{"song_name": "Let it go", "singer": "猴子飞行员"}
+{"song_name": "トルコ行进曲", "singer": "大貫妙子"}
+{"song_name": "Go!!!", "singer": "FLOW"}
+{"song_name": "I'll Follow Him", "singer": "Little Peggy March"}
+{"song_name": "燃えてヒーロー", "singer": "竹本孝之"}
+{"song_name": "Twisted Nerve", "singer": "Bernard Herrmann"}
+{"song_name": "Can't Stop", "singer": "Red Hot Chili Peppers"}
+{"song_name": "We No Speak Americano", "singer": "Yolanda Be Cool & DCUP"}
+{"song_name": "The Cup Of Life (la Copa De La Vida)", "singer": "Ricky Martin"}
+{"song_name": "南方", "singer": "达达乐队"}
+{"song_name": "島唄(ウチナーグチ・ヴァージョン)", "singer": "THE BOOM"}
+{"song_name": "LOVE☆トロピカーナ ファイナル", "singer": "Sister MAYO"}
+{"song_name": "タッチ (TV Version)", "singer": "岩崎良美"}
+{"song_name": "The Final Countdown", "singer": "Europe"}
+{"song_name": "Pumped Up Kicks", "singer": "Foster the People"}
+{"song_name": "噢！乖", "singer": "窦唯"}
+{"song_name": "不屌的说的不算(beat by eddie)", "singer": "谢帝"}
+{"song_name": "Brother Louie (New Version)", "singer": "Modern Talking"}
+{"song_name": "好了好了", "singer": "尹吾"}
+{"song_name": "说唱艺术 ft.彭青", "singer": "小老虎"}
+{"song_name": "Riders On The Storm", "singer": "The Doors"}
+{"song_name": "紅蓮の弓矢(TVサイズver.)", "singer": "Revo"}
+{"song_name": "My Pace", "singer": "SunSet Swish"}
+{"song_name": "红河谷 Red River Valley", "singer": "野孩子"}
+{"song_name": "Stand By Me", "singer": "Ben E. King"}
+{"song_name": "The Universal (live)", "singer": "Blur"}
+{"song_name": "The Nutcracker Suite- Russian Dance", "singer": "David Bowie / Philadelphia Orchestra"}
+{"song_name": "三峰", "singer": "布衣乐队"}
+{"song_name": "安和桥", "singer": "宋冬野"}
+{"song_name": "What Makes You Beautiful", "singer": "One Direction"}
+{"song_name": "Gloria", "singer": "Patti Smith"}
+{"song_name": "Because The Night", "singer": "Patti Smith"}
+{"song_name": "Dakota", "singer": "Muse"}
+{"song_name": "西湖", "singer": "痛仰"}
+{"song_name": "Time To Pretend", "singer": "MGMT"}
+{"song_name": "Battle Without Honour", "singer": "布袋寅泰"}
+{"song_name": "Dark Of Night", "singer": "Little Birdy"}
+{"song_name": "Chelsea Dagger", "singer": "The Fratellis"}
+{"song_name": "It's So Easy", "singer": "Linda Ronstadt"}
+{"song_name": "秋天", "singer": "吴宁越"}
+{"song_name": "直来直往", "singer": "孙燕姿"}
+{"song_name": "High & Dry", "singer": "Radiohead"}
+{"song_name": "我爱你，生活", "singer": "汪峰"}
+{"song_name": "你的甜蜜", "singer": "范晓萱"}
+{"song_name": "冷暖自知", "singer": "张楚"}
+{"song_name": "神话·情话", "singer": "周华健 / 齐豫"}
+{"song_name": "安阳", "singer": "痛仰"}
+{"song_name": "明天更漫长", "singer": "窦唯"}
+{"song_name": "9 Crimes", "singer": "Damien Rice"}
+{"song_name": "Whistle For The Choir", "singer": "The Fratellis"}
+{"song_name": "开始懂了", "singer": "孙燕姿"}
+{"song_name": "梦一场", "singer": "萧敬腾"}
+{"song_name": "迷鹿", "singer": "汪峰"}
+{"song_name": "聊天", "singer": "何勇"}
+{"song_name": "生命中最美丽的一天", "singer": "痛仰"}
+{"song_name": "环形公路", "singer": "哪吒"}
+{"song_name": "姑娘漂亮", "singer": "何勇"}
+{"song_name": "刀剑如梦", "singer": "周华健"}
+{"song_name": "Never Say Never", "singer": "The Fray"}
+{"song_name": "Tender", "singer": "Blur"}
+{"song_name": "You Think You're A Man", "singer": "The Vaselines"}
+{"song_name": "一个人的行李", "singer": "戴佩妮"}
+{"song_name": "单身潜逃", "singer": "戴佩妮"}
+{"song_name": "人质", "singer": "张惠妹"}
+{"song_name": "蚂蚁 蚂蚁", "singer": "张楚"}
+{"song_name": "Hit That", "singer": "The Offspring"}
+{"song_name": "I Love Rock And Roll", "singer": "Joan Jett & The Blackhearts"}
+{"song_name": "Smoke On The Water", "singer": "Deep Purple"}
+{"song_name": "塔吉汗", "singer": "马条"}
+{"song_name": "快让我在这雪地上撒点野", "singer": "崔健"}
+{"song_name": "青春", "singer": "汪峰"}
+{"song_name": "Way Out", "singer": "Yeah Yeah Yeahs"}
+{"song_name": "Better Man", "singer": "Robbie Williams"}
+{"song_name": "If I Were A Boy", "singer": "Beyoncé"}
+{"song_name": "They Don't Care About Us - LP Edit", "singer": "Michael Jackson"}
+{"song_name": "Whisper", "singer": "A Fine Frenzy"}
+{"song_name": "Fluorescent Adolescent", "singer": "Arctic Monkeys"}
+{"song_name": "The Passenger", "singer": "Iggy Pop"}
+{"song_name": "Twenty Years", "singer": "Placebo"}
+{"song_name": "在动物园散步才是正经事", "singer": "my little airport"}
+{"song_name": "不是我不明白", "singer": "崔健"}
+{"song_name": "My So Called Life", "singer": "Daniel Powter"}
+{"song_name": "Croatian Rhapsody", "singer": "Maksim Mrvica"}
+{"song_name": "Special K", "singer": "Placebo"}
+{"song_name": "Smooth Criminal", "singer": "Michael Jackson"}
+{"song_name": "Don't Break My Heart", "singer": "黑豹"}
+{"song_name": "这一切没有想象的那么糟", "singer": "万晓利"}
+{"song_name": "人质", "singer": "杨宗纬"}
+{"song_name": "Billie Jean", "singer": "Michael Jackson"}
+{"song_name": "TiK ToK", "singer": "Ke$ha"}
+{"song_name": "Supermassive Black Hole", "singer": "Muse"}
+{"song_name": "怎样", "singer": "戴佩妮"}
+{"song_name": "What Have You Done (feat. Keith Caputo)", "singer": "Within Temptation"}
+{"song_name": "Just Give Me a Reason (feat. Nate Ruess)", "singer": "Nate James / P!nk"}
+{"song_name": "风平浪静", "singer": "江智民"}
+{"song_name": "一个西藏", "singer": "六个国王"}
+{"song_name": "Jack Rabbit Slims Twist Contest/You Can Never Tell", "singer": "Chuck Berry / Jerome Patrick Holan"}
+{"song_name": "你要的爱", "singer": "戴佩妮"}
+{"song_name": "Goodbye My Lover", "singer": "James Blunt"}
+{"song_name": "Psycho Killer", "singer": "Talking Heads"}
+{"song_name": "yellow (Acoustic)", "singer": "Colplay"}
+{"song_name": "Get It On", "singer": "T. Rex"}
+{"song_name": "Parklife", "singer": "Blur"}
+{"song_name": "Why Don't You Get A Job?", "singer": "The Offspring"}
+{"song_name": "Can't Take My Eyes Off You", "singer": "Muse"}
+{"song_name": "Listen", "singer": "Beyoncé"}
+{"song_name": "钟鼓楼", "singer": "何勇"}
+{"song_name": "The Truth That You Leave", "singer": "Piano Boy"}
+{"song_name": "闹海", "singer": "哪吒"}
+{"song_name": "Country House", "singer": "Blur"}
+{"song_name": "The Model", "singer": "Kraftwerk"}
+{"song_name": "Word Up!", "singer": "Korn"}
+{"song_name": "Dani California", "singer": "Red Hot Chili Peppers"}
+{"song_name": "Time Is Running Out", "singer": "Muse"}
+{"song_name": "秋天冬天", "singer": "张震岳"}
+{"song_name": "Henrietta", "singer": "The Fratellis"}
+{"song_name": "Californication", "singer": "Red Hot Chili Peppers"}
+{"song_name": "Girl On Fire (Main Version)", "singer": "Alicia Keys"}
+{"song_name": "Safe And Sound", "singer": "Capital Cities"}
+{"song_name": "我怀念的", "singer": "萧敬腾"}
+{"song_name": "如果你也听说", "singer": "张惠妹"}
+{"song_name": "爱江山更爱美人", "singer": "李丽芬"}
+{"song_name": "Goodbye To Romance", "singer": "Ozzy Osbourne"}
+{"song_name": "18 & Life", "singer": "Skid Row"}
+{"song_name": "Ghetto Defendant [Edited Version]", "singer": "The Clash"}
+{"song_name": "Maps", "singer": "Yeah Yeah Yeahs"}
+{"song_name": "This Is The New Shit", "singer": "Marilyn Manson"}
+{"song_name": "Where Is My Mind?", "singer": "Pixies"}
+{"song_name": "Welcome To The Black Parade", "singer": "My Chemical Romance"}
+{"song_name": "Unintended", "singer": "Muse"}
+{"song_name": "After The Gold Rush", "singer": "Neil Young"}
+{"song_name": "Kids", "singer": "MGMT"}
+{"song_name": "Snow (Hey Oh)", "singer": "Red Hot Chili Peppers"}
+{"song_name": "Supersonic", "singer": "Oasis"}
+{"song_name": "Dream On", "singer": "Aerosmith"}
+{"song_name": "Stronger", "singer": "Kelly Clarkson"}
+{"song_name": "Marry You", "singer": "Bruno Mars"}
+{"song_name": "Of Wolf And Man", "singer": "Metallica"}
+{"song_name": "Hallelujah", "singer": "Jeff Buckley"}
+{"song_name": "Wish You Were Here", "singer": "Radiohead"}
+{"song_name": "I Love You Oh No!", "singer": "PLASTICS"}
+{"song_name": "Lucky (feat. Colbie Caillat)", "singer": "Jason Mraz / Colbie Caillat"}
+{"song_name": "To Be With You", "singer": "Mr. Big"}
+{"song_name": "Battery", "singer": "Metallica"}
+{"song_name": "Bang Bang", "singer": "Nancy Sinatra"}
+{"song_name": "White Riot", "singer": "The Clash"}
